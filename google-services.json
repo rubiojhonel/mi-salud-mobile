@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366055338396",
+    "project_id": "mi-salud-de1d8",
+    "storage_bucket": "mi-salud-de1d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366055338396:android:185ae33926275b78b85859",
+        "android_client_info": {
+          "package_name": "org.misalud.misalud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366055338396-ag5jfm3fminrlco7f3bsb24lllr5jpvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVmt6uJNYcZO2hwA3KVoBQzQ3oUuR0zUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366055338396-ag5jfm3fminrlco7f3bsb24lllr5jpvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

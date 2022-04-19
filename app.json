@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Mi Salud",
+    "slug": "mi-salud-mobile",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#8e1537"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#8e1537"
+    },
+    "android": {
+      "package": "org.misalud.misalud",
+      "useNextNotificationsApi": true,
+      "googleServicesFile": "./google-services.json"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "org.misalud.misalud"
+    }
+  }
+}
